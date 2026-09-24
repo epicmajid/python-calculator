@@ -111,5 +111,5 @@ flowchart TD
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
 
 <div align="center">
-  <sub>Created with ❤️ by <a href="https://github.com/epicmajid">@epicmajid</a></sub>
+  <sub>Created  by <a href="https://github.com/epicmajid">@epicmajid</a></sub>
 </div>
